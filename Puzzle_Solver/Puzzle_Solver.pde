@@ -122,8 +122,8 @@ void draw()
     textSize(policeLegende);
     if(height > width)
     {
-      text("Temps :"+str((end-start)/1000.0)+"\n" ,150, height-policeLegende);
-      text("Nb Etape :"+str(yoink) ,150, width + policeLegende);
+      text("Time :"+str((end-start)/1000.0)+"\n" ,150, height-policeLegende);
+      text("Steps :"+str(yoink) ,150, width + policeLegende);
     }
   }
    if(!path.isEmpty() && solution)
