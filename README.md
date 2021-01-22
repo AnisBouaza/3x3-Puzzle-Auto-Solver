@@ -3,7 +3,7 @@
 
 # Build
 
-- Download the folder and compile the "Puzzle_Solver.pde" file.
+- Download the folder and compile the **Puzzle_Solver.pde** file.
 - Compile with [Processing](https://processing.org).
 
 # The UI
